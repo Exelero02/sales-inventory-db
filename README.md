@@ -1,4 +1,4 @@
-# Sales & Inventory Database Management (SQL, Python)
+# Sales & Inventory Database Management
 
 This project demonstrates the design and use of a **relational database** for managing sales, inventory, and customer data.  
 It includes **SQL reporting queries**, **Python automation scripts**, and **automated tests** to ensure data consistency.
